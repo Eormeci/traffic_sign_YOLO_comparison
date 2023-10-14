@@ -1,0 +1,10 @@
+train: /content/traffic_signs/train_images
+val: /content/traffic_signs/val_images
+
+is_coco: False
+
+#number of classes
+nc: 4
+ 
+#class names
+names : ['prohibitory','danger','mandatory','other']
